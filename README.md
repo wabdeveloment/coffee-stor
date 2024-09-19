@@ -1,2 +1,0 @@
-# coffee-stor
-Coffee Stor
